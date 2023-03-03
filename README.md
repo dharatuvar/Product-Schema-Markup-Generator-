@@ -1,6 +1,6 @@
 # Product Schema Markup Generator 
 
-***[Product Schema Markup Generator](https://meetanshi.com/schema-generator/product) is a tool that helps online businesses add structured data to their product pages to improve search engine visibility and attract more potential customers. Structured data is a standardized format used by search engines to understand the content of a webpage and provide rich snippets in search results. 
+***[Product Schema Markup Generator](https://meetanshi.com/schema-generator/product)*** is a tool that helps online businesses add structured data to their product pages to improve search engine visibility and attract more potential customers. Structured data is a standardized format used by search engines to understand the content of a webpage and provide rich snippets in search results. 
 
 By adding schema markup to their website's code, businesses can provide search engines with more information about their products, including details such as the product's name, price, availability, and reviews.
 
